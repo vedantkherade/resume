@@ -3,7 +3,7 @@
 
 ## 🔗 Live Resume Links
 
-- [Main Resume (MERN Stack)](https://vedantkherade.github.io/resume/cv.pdf)
+- [Main Resume (MERN Stack)](https://vedantkherade.github.io/resume/)
 
 ---
 
