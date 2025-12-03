@@ -1,9 +1,10 @@
 # 🧾 Vedant Kherade — AutoCV
 
 
-## 🔗 Live Resume Links
+## 🔗 Live Resume Link
 
-- [Main Resume (MERN Stack)](https://vedantkherade.github.io/resume/)
+- [Resume](https://vedantkherade.github.io/resume/cv.pdf)
+- [Home Page](https://vedantkherade.github.io/resume/)
 
 ---
 
@@ -15,4 +16,3 @@ https://vedantkherade.github.io/resume/cv.pdf
 
 
 ---
-
